@@ -13,7 +13,7 @@ LINK : https://klinikasura.github.io/E-TANI-NEW/
 ====================================================
 
 RILIS APLIKASI :
-LINK :
+LINK : https://github.com/klinikasura/E-TANI-NEW/releases
 
 
 
@@ -22,7 +22,7 @@ LINK :
 
 
 RIVIEW APLIKASI :
-LINK :
+LINK :  https://klinikasura.github.io/E-TANI-NEW/
 
 
 
