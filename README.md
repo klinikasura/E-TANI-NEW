@@ -7,24 +7,17 @@ VERSI 8.0 UPDATE 10 APRIL 2025
 ====================================================
 
 DOWNLOAD APLIKASI : 
-LINK : https://klinikasura.github.io/E-TANI-NEW/
+LINK : [https://klinikasura.github.io/E-TANI-NEW/](https://github.com/klinikasura/E-TANI-NEW/raw/refs/heads/main/BUILDING/E-TANI-NEW-V80.apk)
 
-
-====================================================
+===================================================
 
 RILIS APLIKASI :
 LINK : https://github.com/klinikasura/E-TANI-NEW/releases
 
-
-
-
 ====================================================
-
 
 RIVIEW APLIKASI :
 LINK :  https://klinikasura.github.io/E-TANI-NEW/
-
-
 
 ====================================================
 
@@ -33,8 +26,17 @@ DI BUAT DENGAN KECERDASAN BUATAN (AI) PROSESOR V80
 
 ====================================================
 
+TAMPILAN APLIKASI
 
-CODING
+![image](https://github.com/user-attachments/assets/a44807e7-56de-4f24-9cb1-b01cecac32b9)
+
+
+![image](https://github.com/user-attachments/assets/a45a7138-144d-4be3-98cc-32d17cf34e7f)
+
+====================================================
+
+
+CODING APLIKASI :
 
 
 <!DOCTYPE html>
