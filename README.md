@@ -4,17 +4,38 @@ APLIKASI E-TANI NEW VERSI 8.0
 DEVELOPMEN ASEP PUDIN NEW
 VERSI 8.0 UPDATE 10 APRIL 2025
 
+====================================================
 
-DOWNLOAD APLIKASI :
+DOWNLOAD APLIKASI : 
+LINK : https://klinikasura.github.io/E-TANI-NEW/
+
+
+====================================================
+
 RILIS APLIKASI :
+LINK :
+
+
+
+
+====================================================
+
+
 RIVIEW APLIKASI :
+LINK :
+
+
+
+====================================================
 
 APLIKASI INI DI BUAT UNTUK KEPERLUAN PRIBADI SEBAGAI CATATAN, TERIMA KASIH.
+DI BUAT DENGAN KECERDASAN BUATAN (AI) PROSESOR V80 
 
-
+====================================================
 
 
 CODING
+
 
 <!DOCTYPE html>
 
